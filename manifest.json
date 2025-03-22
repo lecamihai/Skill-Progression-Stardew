@@ -1,0 +1,13 @@
+{
+    "Name": "SkillProgression",
+    "Author": "L3ca",
+    "Version": "1.0.0",
+    "Description": "SkillProgression",
+    "UniqueID": "L3ca.SkillProgression",
+    "EntryDll": "SkillProgression.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [
+      "CurseForge:1108150"
+    ]
+  }
+  
